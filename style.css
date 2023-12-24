@@ -23,7 +23,7 @@ body{
     width: 100vw; /* 100% chiều rộng của viewport */
     height: 100vh; /* 100% chiều cao của viewport */
     background-image: url('img/bg.jpg'); /* Đường dẫn đến ảnh của bạn */
-    background-size: 100vh 100vw; /* Phủ toàn bộ phần hiển thị */
+    background-size: 500px 1000px; /* Phủ toàn bộ phần hiển thị */
     background-position: center; /* Đặt ảnh vào giữa div */
     background-repeat: no-repeat; /* Không lặp lại ảnh */
 }
