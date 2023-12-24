@@ -1,0 +1,724 @@
+@import url('font/Sofia/Sofia-Regular.ttf');
+#gift {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    animation: fallAndMove 2s ease-in-out forwards;
+}
+#gift img {
+    height: 100%;
+    width: 100%;
+}
+
+.new-element {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: absolute;
+}
+body{
+    width: 100vw; /* 100% chiều rộng của viewport */
+    height: 100vh; /* 100% chiều cao của viewport */
+    background-image: url('img/bg.jpg'); /* Đường dẫn đến ảnh của bạn */
+    background-size: 430px 932px; /* Phủ toàn bộ phần hiển thị */
+    background-position: center; /* Đặt ảnh vào giữa div */
+    background-repeat: no-repeat; /* Không lặp lại ảnh */
+}
+@keyframes fallAndMove {
+    0% {
+        transform: translateX(0px) rotate(0deg);
+    }
+
+    100% {
+        transform: translateX(200px)  rotate(1080deg);
+    }
+}
+.move-to-heart{
+    animation: moveToHeart 2s forwards;
+}
+@keyframes moveToHeart{
+    to {
+        left: 200px;
+        top: 450px;
+    }
+}
+.text-bind{
+    color: white;
+    display: none;
+    z-index: 2;
+}
+#vanvo{
+    width: 80vw;
+    position: absolute;
+    height: 50vh;
+    left: 50px;
+    top: 200px;
+    word-wrap: break-word;
+    line-height: 1.3;
+    color: white;
+    font-family: 'Sofia', cursive;
+    z-index: 1;
+}
+
+.pic1{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 320px;
+    left: 180px;
+    background-image: url('/img/1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic2{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 290px;
+    left: 145px;
+    background-image: url('/img/2.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+ .pic3{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 280px;
+    left: 110px;
+    background-image: url('/img/3.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic4{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 285px;
+    left: 75px;
+    background-image: url('/img/4.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.pic5{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 300px;
+    left: 40px;
+    background-image: url('/img/5.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic6{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 350px;
+    left: 25px;
+    background-image: url('/img/6.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic7{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 350px;
+    left: 60px;
+    background-image: url('/img/7.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic8{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 340px;
+    left: 85px;
+    background-image: url('/img/8.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic9{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 335px;
+    left: 110px;
+    background-image: url('/img/9.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic10{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 335px;
+    left: 145px;
+    background-image: url('/img/10.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic11{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 365px;
+    left: 180px;
+    background-image: url('/img/11.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic12{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 390px;
+    left: 145px;
+    background-image: url('/img/12.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic13{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 390px;
+    left: 110px;
+    background-image: url('/img/13.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic14{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 395px;
+    left: 85px;
+    background-image: url('/img/14.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic15{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 405px;
+    left: 60px;
+    background-image: url('/img/15.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic16{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 395px;
+    left: 35px;
+    background-image: url('/img/16.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic17{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 450px;
+    left: 55px;
+    background-image: url('/img/17.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic18{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 450px;
+    left: 90px;
+    background-image: url('/img/18.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic19{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 440px;
+    left: 125px;
+    background-image: url('/img/19.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic20{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 420px;
+    left: 160px;
+    background-image: url('/img/20.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic21{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 420px;
+    left: 195px;
+    background-image: url('/img/21.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic22{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    background-image: url('/img/22.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic23{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 490px;
+    left: 135px;
+    background-image: url('/img/23.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic24{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 470px;
+    left: 170px;
+    background-image: url('/img/24.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic25{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 540px;
+    left: 135px;
+    background-image: url('/img/25.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic26{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 520px;
+    left: 170px;
+    background-image: url('/img/26.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic27{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 570px;
+    left: 170px;
+    background-image: url('/img/27.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic28{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 320px;
+    left: 214px;
+    background-image: url('/img/28.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic29{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 290px;
+    left: 248px;
+    background-image: url('/img/29.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic30{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 290px;
+    left: 248px;
+    background-image: url('/img/30.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic31{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 280px;
+    left: 283px;
+    background-image: url('/img/31.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic32{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 280px;
+    left: 318px;
+    background-image: url('/img/32.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic33{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 290px;
+    left: 350px;
+    background-image: url('/img/33.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic34{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 320px;
+    left: 373px;
+    background-image: url('/img/34.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic35{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 340px;
+    left: 340px;
+    background-image: url('/img/35.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic36{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 335px;
+    left: 305px;
+    background-image: url('/img/36.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic37{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 340px;
+    left: 270px;
+    background-image: url('/img/37.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic38{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 340px;
+    left: 235px;
+    background-image: url('/img/38.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic39{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 370px;
+    left: 200px;
+    background-image: url('/img/39.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic40{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 390px;
+    left: 235px;
+    background-image: url('/img/40.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic41{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 390px;
+    left: 270px;
+    background-image: url('/img/41.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic42{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 390px;
+    left: 305px;
+    background-image: url('/img/42.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic43{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 390px;
+    left: 340px;
+    background-image: url('/img/43.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic44{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 370px;
+    left: 375px;
+    background-image: url('/img/44.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic45{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 420px;
+    left: 365px;
+    background-image: url('/img/45.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic46{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 440px;
+    left: 330px;
+    background-image: url('/img/46.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic47{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 440px;
+    left: 295px;
+    background-image: url('/img/47.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic48{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 440px;
+    left: 260px;
+    background-image: url('/img/48.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic49{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 440px;
+    left: 225px;
+    background-image: url('/img/49.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic50{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 470px;
+    left: 195px;
+    background-image: url('/img/50.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic51{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 520px;
+    left: 195px;
+    background-image: url('/img/51.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic52{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 570px;
+    left: 195px;
+    background-image: url('/img/52.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic53{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 490px;
+    left: 230px;
+    background-image: url('/img/53.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic54{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 490px;
+    left: 230px;
+    background-image: url('/img/54.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic55{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 490px;
+    left: 265px;
+    background-image: url('/img/55.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic56{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 490px;
+    left: 290px;
+    background-image: url('/img/56.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic57{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 480px;
+    left: 310px;
+    background-image: url('/img/57.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic58{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 540px;
+    left: 230px;
+    background-image: url('/img/58.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic59{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 540px;
+    left: 265px;
+    background-image: url('/img/59.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.pic60{
+    height: 55px;
+    width: 35px;
+    background-color: black;
+    position: absolute;
+    top: 570px;
+    left: 225px;
+    background-image: url('/img/60.jpg');
+    background-position: center;
+    background-size: cover;
+}
