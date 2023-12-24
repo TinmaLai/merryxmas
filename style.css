@@ -63,7 +63,6 @@ body{
 .pic1{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 320px;
     left: 180px;
@@ -74,7 +73,6 @@ body{
 .pic2{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 290px;
     left: 145px;
@@ -86,7 +84,6 @@ body{
  .pic3{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 280px;
     left: 110px;
@@ -97,7 +94,6 @@ body{
 .pic4{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 285px;
     left: 75px;
@@ -109,7 +105,6 @@ body{
 .pic5{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 300px;
     left: 40px;
@@ -120,7 +115,6 @@ body{
 .pic6{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 350px;
     left: 25px;
@@ -131,7 +125,6 @@ body{
 .pic7{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 350px;
     left: 60px;
@@ -142,7 +135,6 @@ body{
 .pic8{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 340px;
     left: 85px;
@@ -153,7 +145,6 @@ body{
 .pic9{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 335px;
     left: 110px;
@@ -164,7 +155,6 @@ body{
 .pic10{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 335px;
     left: 145px;
@@ -175,7 +165,6 @@ body{
 .pic11{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 365px;
     left: 180px;
@@ -186,7 +175,6 @@ body{
 .pic12{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 390px;
     left: 145px;
@@ -197,7 +185,6 @@ body{
 .pic13{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 390px;
     left: 110px;
@@ -208,7 +195,6 @@ body{
 .pic14{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 395px;
     left: 85px;
@@ -219,7 +205,6 @@ body{
 .pic15{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 405px;
     left: 60px;
@@ -230,7 +215,6 @@ body{
 .pic16{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 395px;
     left: 35px;
@@ -241,7 +225,6 @@ body{
 .pic17{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 450px;
     left: 55px;
@@ -252,7 +235,6 @@ body{
 .pic18{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 450px;
     left: 90px;
@@ -263,7 +245,6 @@ body{
 .pic19{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 440px;
     left: 125px;
@@ -274,7 +255,6 @@ body{
 .pic20{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 420px;
     left: 160px;
@@ -285,7 +265,6 @@ body{
 .pic21{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 420px;
     left: 195px;
@@ -296,7 +275,6 @@ body{
 .pic22{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 500px;
     left: 100px;
@@ -307,7 +285,6 @@ body{
 .pic23{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 490px;
     left: 135px;
@@ -318,7 +295,6 @@ body{
 .pic24{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 470px;
     left: 170px;
@@ -329,7 +305,6 @@ body{
 .pic25{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 540px;
     left: 135px;
@@ -340,7 +315,6 @@ body{
 .pic26{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 520px;
     left: 170px;
@@ -351,7 +325,6 @@ body{
 .pic27{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 570px;
     left: 170px;
@@ -362,7 +335,6 @@ body{
 .pic28{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 320px;
     left: 214px;
@@ -373,7 +345,6 @@ body{
 .pic29{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 290px;
     left: 248px;
@@ -384,7 +355,6 @@ body{
 .pic30{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 290px;
     left: 248px;
@@ -395,7 +365,6 @@ body{
 .pic31{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 280px;
     left: 283px;
@@ -406,7 +375,6 @@ body{
 .pic32{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 280px;
     left: 318px;
@@ -417,7 +385,6 @@ body{
 .pic33{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 290px;
     left: 350px;
@@ -428,7 +395,6 @@ body{
 .pic34{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 320px;
     left: 373px;
@@ -439,7 +405,6 @@ body{
 .pic35{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 340px;
     left: 340px;
@@ -450,7 +415,6 @@ body{
 .pic36{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 335px;
     left: 305px;
@@ -461,7 +425,6 @@ body{
 .pic37{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 340px;
     left: 270px;
@@ -472,7 +435,6 @@ body{
 .pic38{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 340px;
     left: 235px;
@@ -483,7 +445,6 @@ body{
 .pic39{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 370px;
     left: 200px;
@@ -494,7 +455,6 @@ body{
 .pic40{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 390px;
     left: 235px;
@@ -505,7 +465,6 @@ body{
 .pic41{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 390px;
     left: 270px;
@@ -516,7 +475,6 @@ body{
 .pic42{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 390px;
     left: 305px;
@@ -527,7 +485,6 @@ body{
 .pic43{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 390px;
     left: 340px;
@@ -538,7 +495,6 @@ body{
 .pic44{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 370px;
     left: 375px;
@@ -549,7 +505,6 @@ body{
 .pic45{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 420px;
     left: 365px;
@@ -560,7 +515,6 @@ body{
 .pic46{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 440px;
     left: 330px;
@@ -571,7 +525,6 @@ body{
 .pic47{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 440px;
     left: 295px;
@@ -582,7 +535,6 @@ body{
 .pic48{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 440px;
     left: 260px;
@@ -593,7 +545,6 @@ body{
 .pic49{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 440px;
     left: 225px;
@@ -604,7 +555,6 @@ body{
 .pic50{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 470px;
     left: 195px;
@@ -615,7 +565,6 @@ body{
 .pic51{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 520px;
     left: 195px;
@@ -626,7 +575,6 @@ body{
 .pic52{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 570px;
     left: 195px;
@@ -637,7 +585,6 @@ body{
 .pic53{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 490px;
     left: 230px;
@@ -648,7 +595,6 @@ body{
 .pic54{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 490px;
     left: 230px;
@@ -659,7 +605,6 @@ body{
 .pic55{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 490px;
     left: 265px;
@@ -670,7 +615,6 @@ body{
 .pic56{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 490px;
     left: 290px;
@@ -681,7 +625,6 @@ body{
 .pic57{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 480px;
     left: 310px;
@@ -692,7 +635,6 @@ body{
 .pic58{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 540px;
     left: 230px;
@@ -703,7 +645,6 @@ body{
 .pic59{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 540px;
     left: 265px;
@@ -714,7 +655,6 @@ body{
 .pic60{
     height: 55px;
     width: 35px;
-    background-color: black;
     position: absolute;
     top: 570px;
     left: 225px;
